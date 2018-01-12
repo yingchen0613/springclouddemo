@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+client/src/main/resources/static/
+client/src/main/resources/templates/
+feign-server/src/main/resources/static/
+feign-server/src/main/resources/templates/
+springclouddemo.iml
